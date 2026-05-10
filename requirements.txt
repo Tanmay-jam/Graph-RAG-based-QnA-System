@@ -9,7 +9,11 @@ sentence-transformers
 scikit-learn
 networkx
 numpy
+pandas
 chromadb
+
+tqdm
+python-dotenv
 
 # Graph community detection
 python-igraph
