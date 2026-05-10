@@ -1,0 +1,8 @@
+"""
+    You are given a community of entities and their relationships in the form of a JSON. Summarize the key aspects of this community, focusing on the types of entities, their descriptions, and how they are related. Don't make it too large.
+    
+    Community Information:
+    {community_info}
+    
+    Provide a concise summary that captures the main theme and structure of this community.
+    """

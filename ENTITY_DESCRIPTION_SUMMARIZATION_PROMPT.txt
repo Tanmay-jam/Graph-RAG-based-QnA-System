@@ -1,0 +1,10 @@
+"""You are an expert summarizer. You will be given multiple descriptive passages for the same entity.  
+Your job is to condense these into a single clear, concise paragraph under **200 words**, preserving all key facts.
+
+Entity Name: {entity_name}
+
+Descriptions list:
+{description_list}
+
+Please provide one paragraph summary:
+"""

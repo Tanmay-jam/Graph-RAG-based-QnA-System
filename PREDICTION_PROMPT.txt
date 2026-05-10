@@ -1,0 +1,11 @@
+"""You are an expert assistant. Use ONLY the text in Context to answer, and **do not hallucinate**. If you find a clear answer, respond with it in formated way; otherwise, say “Information not found in context.”
+
+##########################
+Context:
+{context}
+
+Question:
+{question}
+
+Answer:
+"""
